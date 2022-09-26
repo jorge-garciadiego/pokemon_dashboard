@@ -7,7 +7,6 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 from dash import Input, Output
-import sqlalchemy
 import dash_bootstrap_components as dbc
 
 chart_layout_font = {'color': 'rgb(255, 204, 0)'}
