@@ -22,7 +22,7 @@ plotly-express==0.4.0
 pyparsing==3.0.9
 python-dateutil==2.8.2
 pytz==2022.2.1
-scipy==1.9.1
+scipy
 six==1.16.0
 statsmodels==0.13.2
 tenacity==8.1.0
